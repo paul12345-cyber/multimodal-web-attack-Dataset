@@ -19,21 +19,15 @@ MWAD addresses these gaps by providing a multimodal dataset suitable for AI-driv
 </figure>
 
 ## Dataset Features
-- Multimodal representation of web attack data consisting of HTTP URI's and network flow
-- Includes multiple attack types:
-  - SQL Injection (SQLi)
-  - Cross-Site Scripting (XSS)
-  - Path Traversal (PT)
-- Structured for machine learning and deep learning tasks
-- Supports both classification and anomaly detection
+- Multimodal representation of web attack data consisting of HTTP URI's and network flows of SQL Injection (SQLi) attacks.
+- Structured for machine learning and deep learning tasks.
 
 ## Research Applications
 This dataset can be used for:
 
-- AI-based web attack detection
-- Intrusion detection systems (IDS)
-- Cyber threat intelligence research
 - Multimodal learning in cybersecurity
+- AI-based web attack detection
+- Cyber threat intelligence research
 - Benchmarking machine learning models
 
 ## Associated Publication
