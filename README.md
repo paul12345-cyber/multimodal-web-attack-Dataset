@@ -4,12 +4,7 @@
 
 The **Multimodal Web Attack Dataset (MWAD)** is a labelled cybersecurity dataset developed to support research into artificial intelligence and machine learning approaches for detecting SQL injection attacks.
 
-MWAD contains **1,000 samples**, comprising:
-
-- **500 benign web traffic samples**
-- **500 SQL injection attack samples**
-
-Each sample combines two complementary data modalities:
+The MWAD dataset sample combines two complementary data modalities:
 
 1. **HTTP request data**, representing the content and structure of web requests.
 2. **Network-flow features**, representing the behavioural characteristics of the corresponding network traffic.
