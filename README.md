@@ -31,7 +31,7 @@ SQL injection attacks were executed using **SQLMap** and SQL injection payloads.
 The HTTP request data and corresponding flow-level features were subsequently labelled and combined to produce the final multimodal dataset.
 
 <p align="center">
-  <img src="images/dataset_generation.png"
+  <img src="images/datasetgeneration.png"
        alt="MWAD multimodal dataset generation pipeline"
        width="900">
 </p>
