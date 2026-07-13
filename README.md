@@ -93,23 +93,6 @@ This modality can support:
 
 ---
 
-## Research Applications
-
-MWAD may be used for research involving:
-
-- SQL injection attack detection
-- Web application security
-- Intrusion detection systems
-- Network-traffic classification
-- HTTP request analysis
-- Multimodal machine learning
-- Feature-level or decision-level data fusion
-- Self-supervised cybersecurity learning
-- Comparative evaluation of request-based and flow-based detection
-- Cybersecurity education and laboratory demonstrations
-
----
-
 ## Dataset Novelty
 
 Many web-attack datasets provide either application-layer request information or network-level traffic features separately.
