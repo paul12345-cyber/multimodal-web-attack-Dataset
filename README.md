@@ -129,6 +129,8 @@ If you use MWAD in your research, please cite:
   doi={10.1016/j.iswa.2026.200702}
 }
 
+---
+
 ## License
 
 The **Multimodal Web Attack Dataset (MWAD)** is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
