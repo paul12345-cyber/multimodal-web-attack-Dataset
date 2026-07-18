@@ -53,7 +53,6 @@ The HTTP request data and corresponding flow-level features were subsequently la
 | SQL injection attack | 500 | SQL injection requests and their corresponding network-flow features |
 | **Total** | **1,000** | **Labelled multimodal web-traffic samples** |
 
-The balanced class distribution supports controlled evaluation of binary SQL injection detection models.
 
 ---
 
