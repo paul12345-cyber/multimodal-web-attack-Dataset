@@ -1,0 +1,22 @@
+## License
+
+The **Multimodal Web Attack Dataset (MWAD)** is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
+
+This license permits anyone to:
+
+- Share — copy and redistribute the dataset in any medium or format.
+- Adapt — remix, transform, and build upon the dataset for any purpose, including commercial use.
+
+Under the following condition:
+
+- **Attribution** — Appropriate credit must be given to the original author(s), a link to the license must be provided, and any modifications must be clearly indicated.
+
+When using this dataset in academic research, please cite both the dataset and the associated publication:
+
+> **Yeboah, P. N., Kayes, A. S. M., Rahayu, W., Pardede, E., & Mahbub, S. (2026).**  
+> *SQL injection detection using self-supervised pre-training and multimodal techniques.*  
+> **Intelligent Systems with Applications**, **31**, 200702.  
+> https://doi.org/10.1016/j.iswa.2026.200702
+
+For the full license text, please visit:
+https://creativecommons.org/licenses/by/4.0/
