@@ -116,5 +116,4 @@ The complete bibliographic citation and publication DOI will be added when the a
 Until the final publication details are available, the dataset may be referenced as:
 
 ```text
-Yeboah, P. MWAD: A Multimodal Web Attack Dataset for AI-Driven
-SQL Injection Detection. GitHub repository, [Year].
+Yeboah, Paul Ntim, A. S. M. Kayes, Wenny Rahayu, Eric Pardede, and Syed Mahbub. "SQL injection detection using self-supervised pre-training and multimodal techniques." Intelligent Systems with Applications (2026): 200702.
