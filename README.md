@@ -51,7 +51,7 @@ The HTTP request data and corresponding flow-level features were subsequently la
 |---|---:|---|
 | Benign | 500 | Legitimate web requests and their corresponding network-flow features |
 | SQL injection attack | 500 | SQL injection requests and their corresponding network-flow features |
-| **Total** | **1,000** | Labelled multimodal web-traffic samples |
+| **Total** | **1,000** | **Labelled multimodal web-traffic samples** |
 
 The balanced class distribution supports controlled evaluation of binary SQL injection detection models.
 
