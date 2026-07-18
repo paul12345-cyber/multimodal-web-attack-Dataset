@@ -4,6 +4,11 @@
 
 The **Multimodal Web Attack Dataset (MWAD)** is a novel labelled cybersecurity dataset developed as part of the author's doctoral research in cybersecurity at **La Trobe University, Australia**.
 
+The dataset generation methodology, design, and description are presented in the peer-reviewed journal article:
+
+> **Yeboah, P. N., et al. (2026).** *SQL injection detection using self-supervised pre-training and multimodal techniques*. **Intelligent Systems with Applications**, **31**, 200702.  
+> https://doi.org/10.1016/j.iswa.2026.200702
+
 Unlike traditional web attack datasets that typically contain only **HTTP requests** or **network traffic**, MWAD integrates **application-layer HTTP request data** with **network flow features**, providing a multimodal representation of web attacks.
 
 MWAD is designed to support the development and evaluation of **artificial intelligence (AI)** and **machine learning (ML)** models for web attack detection, with a particular focus on **SQL injection (SQLi)**. By combining complementary data modalities, the dataset enables researchers to investigate multimodal learning approaches that improve the accuracy and robustness of AI-driven web attack detection.
