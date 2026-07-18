@@ -110,9 +110,22 @@ The dataset therefore provides a reusable research resource for investigating mu
 
 ## Associated Publication
 
-This dataset underpins research accepted for publication in:
+The MWAD dataset generation methodology, design, and evaluation are presented in the following peer-reviewed publication:
 
 > **Intelligent Systems with Applications**, Elsevier.
 
-```text
-Yeboah, Paul Ntim, A. S. M. Kayes, Wenny Rahayu, Eric Pardede, and Syed Mahbub. "SQL injection detection using self-supervised pre-training and multimodal techniques." Intelligent Systems with Applications (2026): 200702.
+## Citation
+
+If you use MWAD in your research, please cite:
+
+```bibtex
+@article{yeboah2026sql,
+  title={SQL injection detection using self-supervised pre-training and multimodal techniques},
+  author={Yeboah, Paul Ntim and Kayes, A. S. M. and Rahayu, Wenny and Pardede, Eric and Mahbub, Syed},
+  journal={Intelligent Systems with Applications},
+  volume={31},
+  pages={200702},
+  year={2026},
+  publisher={Elsevier},
+  doi={10.1016/j.iswa.2026.200702}
+}
