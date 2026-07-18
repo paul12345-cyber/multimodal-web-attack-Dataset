@@ -109,11 +109,5 @@ This dataset underpins research accepted for publication in:
 
 > **Intelligent Systems with Applications**, Elsevier.
 
-The complete bibliographic citation and publication DOI will be added when the article becomes available online.
-
-### Temporary citation
-
-Until the final publication details are available, the dataset may be referenced as:
-
 ```text
 Yeboah, Paul Ntim, A. S. M. Kayes, Wenny Rahayu, Eric Pardede, and Syed Mahbub. "SQL injection detection using self-supervised pre-training and multimodal techniques." Intelligent Systems with Applications (2026): 200702.
