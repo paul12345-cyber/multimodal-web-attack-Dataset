@@ -128,5 +128,3 @@ If you use MWAD in your research, please cite:
   publisher={Elsevier},
   doi={10.1016/j.iswa.2026.200702}
 }
-
----
