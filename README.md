@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Multimodal Web Attack Dataset (MWAD)** is a novel labelled cybersecurity dataset developed as part of the author's doctoral research in cybersecurity at **La Trobe University, Australia**.
+The **Multimodal Web Attack Dataset (MWAD)** is a novel labelled cybersecurity dataset developed as part of the author's research in cybersecurity at **La Trobe University, Australia**.
 
 The dataset generation methodology, design, and description are presented in the peer-reviewed journal article:
 
